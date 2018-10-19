@@ -1,0 +1,30 @@
+h1 {
+    font-family: 'Ubuntu Mono', monospace;
+    text-align: center;
+    font-size: 1.2em;
+    margin-top: 4em;
+    margin-bottom: 4em;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.bakgrundsbild {
+	margin-top: 0em;
+	border: hidden;
+	margin-right: 0em;
+	animation: 1s animationName9;
+	animation-duration: 5s;
+	animation-fill-mode:forwards; 
+    position: relative;
+}
+
+@keyframes animationName9 {
+	
+	from { 
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
