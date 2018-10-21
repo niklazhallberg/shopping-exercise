@@ -111,8 +111,8 @@ if (empty($_POST["firstName"] )){
 
 <!-- PRESENTATION OF CUSTOMER BILLING INFO -->
                
-               <h1 class="h1_checkout">___botánica_Studio__&#9729;______</h1>
-               <p class="Personal_box">Personal information and billing adress</p>
+               <h1 class="h1Checkout">___botánica_Studio__&#9729;______</h1>
+               <p class="PersonalBox">Personal information and billing adress</p>
 
         <?  if(isset($_POST["firstName"])){
                 $_SESSION["firstName"] = $_POST ["firstName"];
