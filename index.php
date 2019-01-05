@@ -149,6 +149,10 @@ session_start();
     <!-- CUSTOMER INFORMATION FORM before CHECKOUT -->
     
     <form action="checkout.php" method="POST" class="form" id="form1">
+        <label for="register_username">Username</label>
+        <input type="text" name="username" id="register_username">
+        <label for="register_password">Password</label>
+        <input type="password" name="password" id="register_password">
         <label for="firstName">First name: </label>
         <input id="firstName" type="text" name="firstName" /><br>
         <label for="lastName">Last name: </label>
