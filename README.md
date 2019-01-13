@@ -1,6 +1,6 @@
 NIKLAZ HALLBERG
 
-Inlämningsuppgift 1 - Shopping! 💸
+Inlämningsuppgift 1 - Shopping! 
 
 Individuell Inlämmning 
 Betygsnivå: IG/G/VG
