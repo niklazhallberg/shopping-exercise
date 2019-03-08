@@ -8,8 +8,7 @@ Grundläggande programmering,
 Variabler och olika variabeltyper, 
 Loopar,
 Funktioner, 
-Grundläggande formulärhantering, 
-Fil och mappstruktur 
+Grundläggande formulärhantering.
 
 Uppgiftsbeskrivning
 Din uppgift är att skapa en webbsida som är grunden till ett beställningsformulär för diverse produkter. Dessa produkter är upp till dig att välja men de ska ha minst 2 egenskaper:
