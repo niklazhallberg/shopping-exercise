@@ -18,7 +18,6 @@ session_start();
      $_SESSION['Verticillata_price'] =  divPrice($_SESSION['Verticillata_price']);
      
      
-     
         } else if (date("l") == "Wednesday"){
      
      function addPrice($print_price){
@@ -209,7 +208,7 @@ if (empty($_POST["firstName"] )){
                 
     ?>
            
-            <form action="ThankYou.php" method="POST" class="form" id="form2">
+            <form action="order_confirm.php" method="POST" class="form" id="form2">
             <input type="submit" value="Confirm Order"/> 
             </form> 
 
