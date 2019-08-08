@@ -1,6 +1,10 @@
-NIKLAZ HALLBERG
+Niklaz Hallberg
 
-Inlämningsuppgift 1 - Shopping.
+Inlämningsuppgift 1 - Shopping 
+
+Individuell 
+
+Erhållet Betyg; Väl Godkänd
 
 BRIEF
 
